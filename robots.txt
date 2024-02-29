@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arsiparis-kemenaglampung.online/sitemap.xml
